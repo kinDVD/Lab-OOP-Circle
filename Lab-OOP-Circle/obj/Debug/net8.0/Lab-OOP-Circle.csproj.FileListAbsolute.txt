@@ -1,0 +1,14 @@
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\bin\Debug\net8.0\Lab-OOP-Circle.exe
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\bin\Debug\net8.0\Lab-OOP-Circle.deps.json
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\bin\Debug\net8.0\Lab-OOP-Circle.runtimeconfig.json
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\bin\Debug\net8.0\Lab-OOP-Circle.dll
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\bin\Debug\net8.0\Lab-OOP-Circle.pdb
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\Lab-OOP-Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\Lab-OOP-Circle.AssemblyInfoInputs.cache
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\Lab-OOP-Circle.AssemblyInfo.cs
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\Lab-OOP-Circle.csproj.CoreCompileInputs.cache
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\Lab-OOP-Circle.dll
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\refint\Lab-OOP-Circle.dll
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\Lab-OOP-Circle.pdb
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\Lab-OOP-Circle.genruntimeconfig.cache
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\ref\Lab-OOP-Circle.dll
