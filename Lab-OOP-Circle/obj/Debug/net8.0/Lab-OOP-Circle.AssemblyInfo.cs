@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab-OOP-Circle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98071f8b6c8182a3ac6026008edddfc5ad499a4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab-OOP-Circle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab-OOP-Circle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

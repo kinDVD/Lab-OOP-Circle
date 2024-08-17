@@ -31,7 +31,7 @@ namespace Lab_OOP_Circle
         }
         public double getArea(double radius)
         {
-            return (radius *=2) * Math.PI;
+            return (Math.Pow(radius,2) * Math.PI);
         }
     }
 }

@@ -12,3 +12,4 @@ C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\r
 C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\Lab-OOP-Circle.pdb
 C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\Lab-OOP-Circle.genruntimeconfig.cache
 C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\ref\Lab-OOP-Circle.dll
+C:\Users\Test User\source\repos\Lab-OOP-Circle\Lab-OOP-Circle\obj\Debug\net8.0\Lab-OOP-Circle.sourcelink.json
